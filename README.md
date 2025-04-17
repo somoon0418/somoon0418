@@ -1,8 +1,6 @@
-<!--- Title ---!>
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Welcome to SoMoon's Github%20render&fontSize=90&animation=blinking1.6s)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=blink)
 
-<!--- Description ---!>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=200&color=F7C058&multiline=true&repeat=false&width=500&height=90&lines=%F0%9F%8E%AC+Movie+%26+book+lover+%7C+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Coding+for+fun;Once+a+frontend+developer%2C+;now+building+small+things+just+for+the+joy+of+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=200&color=F7C058&multiline=true&repeat=false&width=500&height=90&lines=🎬+Movie+%26+book+lover+%7C+🧑‍💻+Coding+for+fun;Once+a+frontend+developer%2C;now+building+small+things+just+for+the+joy+of+it.)](https://git.io/typing-svg)
 
 ## 🧠 What I can (probably) do
 
